@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571886091 source:d:\code blocks\c++practice\stringarray_imitate_pythonlist\string_array(python_list)\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
