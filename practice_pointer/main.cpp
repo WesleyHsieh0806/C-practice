@@ -37,6 +37,11 @@ int main()
     **pointer_pointer=10;
     cout<<"The value of A after changing the value of **pointer_pointer to 10:"<<A<<endl;
 
+    char *p="chaisodijo"; //string 跟char pointer大小都是4bytes
+    string p2="asdasdasdasd";
+    cout<<sizeof(p2)<<endl;
+    cout<<sizeof(p);
     return 0;
+
 
 }

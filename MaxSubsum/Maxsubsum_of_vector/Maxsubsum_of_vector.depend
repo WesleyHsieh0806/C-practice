@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1573197390 source:d:\code blocks\c++practice\maxsubsum\maxsubsum_of_vector\main.cpp
+	<iostream>
+	<vector>
+
